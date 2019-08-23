@@ -4,6 +4,11 @@
 </head>
 <body>
 	<h1>Donations</h1>
+	<p>
+		<a href="{{ url_for('all') }}">All Donations</a>
+		<a href="{{ url_for('new_donation') }}">Add Donation</a>
+	</p>
+
 	<h2>{% block subtitle %} {% endblock subtitle %}</h2>
 	{% block content %} {% endblock content %}
 </body>
