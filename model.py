@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+"""
+Project Name: flask-mailroom
+File Name: model.py
+Author: Travis Brackney
+Class: Python 230 - Self paced online
+Date Created 8/22/2019
+Python Version: 3.7.2
+"""
+
 import os
 
 from peewee import Model, CharField, IntegerField, ForeignKeyField

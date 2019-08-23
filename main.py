@@ -3,9 +3,9 @@
 Project Name: flask-mailroom
 File Name: main.py
 Author: Travis Brackney
-Class: Python 220 - Self paced online
-Date Created 2/10/2019
-Python Version: 3.6.4
+Class: Python 230 - Self paced online
+Date Created 8/22/2019
+Python Version: 3.7.2
 """
 
 import os
